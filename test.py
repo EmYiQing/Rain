@@ -1,0 +1,1 @@
+print("%s%+25s" % ("hello","world"))
